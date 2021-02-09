@@ -1,0 +1,2 @@
+datetime_str,initial_solution_value,initial_solution_routes,local_optimum_value,local_optimum_routes,exit_condition,exec_time
+2021-01-31_21-43-45_058516,27000.0,"[0, 1, 3, 6, 4, 10, 2, 13, 8, 5, 7, 0];[0, 12, 9, 11, 0]",25200.0,"[0, 1, 3, 6, 10, 4, 2, 13, 5, 8, 7, 0];[0, 12, 11, 9, 0]",3,5.54877495765686
